@@ -1,8 +1,8 @@
 {
 	"name": "TF.TV Enhancer",
-	"short_name": "EB9K",
-	"version": "0.1.0",
-	"description": "Greatly enhance user experience on TF.TV",
+	"short_name": "TFTVE",
+	"version": "1.0.0",
+	"description": "Reduces clutter from unwanted groups.",
 	"permissions":["storage"],
 	"browser_action":
 	{
